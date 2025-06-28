@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>MATHEMATICAL OPERATIONS </h1>
+    </body>
+    <script>
+        var NUM1=3;
+        var NUM2=5;
+        var ADD=NUML1+NUML2;
+        var SUB=NUML1-NUM2;
+        var MUL=NUM1* NUM2;
+        var DIVI=NUM1/NUM2;
+        alert('ADDITION IS'+ADD+".SUBTRACTION IS"+SUB+"MULTIPLICATION IS"+MUL+".DIVISION IS"+DIVI+".");
+        </SCRIPT>
+</html>
+            
+        
