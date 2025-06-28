@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <h1>CEL CODING PROGRAM </h1>
+    </body>
+    <script>
+        var  NUM1=5;
+        var NUM2=3;
+        var ADD=NUML1+NUM2;
+        alert('ADDITION IS'+ ADD);
+        </SCRIPT>
+</html>
