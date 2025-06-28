@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<HTML>
+    <head>
+        <TITAL>VARIABLES EXAMPLE </TITAL>
+    </head>
+    <body>
+        <h1 id="HEADER"></h1>
+        <script>
+            let NAME ="NAVEEN";
+            Document.GETELEMENTBYID("HEADER").INNERHTML ="HELLO,"+name+"!";
+            </SCRIPT>
+    </body>
+</HTML>
