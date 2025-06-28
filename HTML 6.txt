@@ -1,0 +1,17 @@
+<!DOCTYPE HTML>
+<html>
+    <head>
+        <title>MAHARASHTRA DAY</title>
+        <style>
+            body{
+                background-color: darkblue;
+                font-family:Arial, sans-serif; text-align:center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>MAHARASHTRA DAY</h1>
+        <P>CELEBRATING THE SPIRIT OF MAHARASHTRA!</P>
+        <P>JAI MAHARASHTRA!</P>
+    </body>
+</html>
