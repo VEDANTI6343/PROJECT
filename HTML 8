@@ -1,0 +1,14 @@
+<!DOCTYPE HTML>
+<html>
+    <style>
+        h1{
+            background:blue;
+        }
+    </style>
+    <body>
+        <h1>I AM AMAZING </h1>
+    </body>
+</SCRIPT>
+        ALERT("CLICK HERE TO KNOW WHO IS AMAZING?")
+</SCRIPT>
+</html>
