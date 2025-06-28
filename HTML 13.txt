@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>BUDDHA PURNIMA </title>
+        <style>
+            body{
+                background-color:purple;
+                font-family:ARIAL,SANS-SERIF;
+                text-align:center;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>BUDDHA PURNIMA</h1>
+        <P>WISHING YOU PEACE,LOVE,AND ENLIGHTENMENT!</P>
+        <P>MAY LORD BUDDHA'S TEACHINGS GUIDE YOU ON YOUR PATH!</P>
+    </body>
+</html>
