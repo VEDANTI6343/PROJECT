@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Happy Teacher's Day</title>
+  <style>
+    body {
+      font-family: sans-serif;
+      text-align: center;
+      background-color: #f0f0f0;
+    }
+    h1 {
+      color: #3366cc;
+    }
+    img {
+      width: 200px;
+      height: 200px;
+      border-radius: 10px;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <h1>Happy Teacher's Day!</h1>
+  <p>Thank you for all that you do.</p>
+  <img src="teacher_image.jpg" alt="Teacher">
+</body>
+</html>
