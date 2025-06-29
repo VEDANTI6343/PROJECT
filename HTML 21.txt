@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gudi Padwa Greetings</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        h1 {
+            color: #ff9900;
+        }
+        .gudi-image {
+            width: 200px;
+            margin-bottom: 20px;
+        }
+        .message {
+            font-size: 1.2em;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="gudi-padwa-image.jpg" alt="Gudi Padwa" class="gudi-image">
+        <h1>Happy Gudi Padwa!</h1>
+        <p class="message">Wishing you a year filled with joy, prosperity, and good health.</p>
+    </div>
+</body>
+</html>
