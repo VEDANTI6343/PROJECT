@@ -1,0 +1,66 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ram Navami</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 20px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #e44d26;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            margin-top: 20px;
+            border-radius: 8px;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.6;
+        }
+        .message {
+            font-style: italic;
+            margin-top: 20px;
+            color: #777;
+        }
+        .wish {
+            margin-top: 20px;
+            font-size: 1.1em;
+            color: #333;
+        }
+         .date {
+           font-size: 0.9em;
+           color: #666;
+           margin-top: 10px;
+         }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Ram Navami!</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Rama_and_Sita.jpg/640px-Rama_and_Sita.jpg" alt="Lord Rama and Sita">
+        <p>
+            On this auspicious day of Ram Navami, may the blessings of Lord Rama fill your life with joy, peace, and prosperity. Let's celebrate the victory of good over evil and embrace the teachings of Lord Rama.
+        </p>
+        <p class="message">"May the divine light of Lord Rama guide you on the path of righteousness and fill your heart with devotion."</p>
+        <p class="wish">Jai Shri Ram!</p>
+        <p class="date">Observed on April 6, 2025</p>
+    </div>
+</body>
+</html>
