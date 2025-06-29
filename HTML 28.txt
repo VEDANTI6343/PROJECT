@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Happy Father's Day</title>
+</head>
+<body>
+
+<h1>Happy Father's Day!</h1>
+
+<p>Wishing all fathers a wonderful day filled with joy and love.</p>
+
+</body>
+</html>
