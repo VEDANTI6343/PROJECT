@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rang Panchami</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 1em 0;
+        }
+        .container {
+            padding: 2em;
+        }
+        .festival-image {
+            width: 300px;
+            height: auto;
+            border-radius: 10px;
+            margin-bottom: 1em;
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        .button {
+            background-color: #4CAF50;
+            border: none;
+            color: white;
+            padding: 10px 20px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 4px 2px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Happy Rang Panchami!</h1>
+    </header>
+    <div class="container">
+        <img src="https://via.placeholder.com/300x200/FF6F61/FFFFFF?text=Rang+Panchami" alt="Rang Panchami" class="festival-image">
+        <p>Rang Panchami is a vibrant Hindu festival celebrated with colors, five days after Holi. It marks the end of the festive season and is a time for joy, laughter, and togetherness. People celebrate by splashing colors on each other, enjoying music and dance, and spreading happiness.</p>
+        <p>This year, Rang Panchami falls on March 20th, 2025. It's a day to embrace the spirit of unity and celebrate the beauty of diversity through vibrant colors.</p>
+        <a href="https://www.hindustantimes.com/lifestyle/festivals/happy-rang-panchami-2025-30-best-wishes-images-messages-whatsapp-and-facebook-status-to-share-with-loved-ones-101742292125356.html" class="button" target="_blank">Learn More</a>
+    </div>
+</body>
+</html>
