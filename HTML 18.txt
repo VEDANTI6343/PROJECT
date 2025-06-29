@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>International Women's Day</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #e91e63;
+            color: white;
+            padding: 1em 0;
+            text-align: center;
+        }
+        main {
+            padding: 20px;
+            text-align: center;
+        }
+        .hero-image {
+            width: 100%;
+            max-width: 600px;
+            height: auto;
+            margin-bottom: 20px;
+        }
+        .quote {
+            font-style: italic;
+            margin-bottom: 20px;
+        }
+        .button {
+            background-color: #e91e63;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            text-decoration: none;
+            display: inline-block;
+        }
+         footer {
+            text-align: center;
+            padding: 1em 0;
+            background-color: #333;
+            color: white;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>International Women's Day</h1>
+    </header>
+    <main>
+        <img src="womens_day_hero.jpg" alt="International Women's Day" class="hero-image">
+        <p class="quote">"Here's to strong women: May we know them, may we be them, may we raise them."</p>
+        <p>International Women's Day is a global day celebrating the social, economic, cultural, and political achievements of women. The day also marks a call to action for accelerating gender equality.</p>
+         <p>This year's theme is "Invest in Women: Accelerate Progress" [1].</p>
+        <a href="https://www.un.org/en/observances/womens-day" class="button" target="_blank">Learn More</a>
+    </main>
+    <footer>
+        <p>&copy; 2025 International Women's Day</p>
+    </footer>
+</body>
+</html>
