@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="mr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>लक्ष्मी पूजन</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+        }
+        .container {
+            margin-top: 50px;
+        }
+        h1 {
+            color: #ff6600;
+        }
+        img {
+            width: 200px;
+            height: auto;
+            margin-top: 20px;
+        }
+        .message {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #333;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>शुभ दीपावली!</h1>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Lakshmi_standing.svg/1200px-Lakshmi_standing.svg.png" alt="लक्ष्मी माता">
+        <div class="message">
+            <p>देवी लक्ष्मी तुमच्या घरात सुख, समृद्धी आणि आनंद घेऊन येवो. </p>
+            <p>सर्वांना लक्ष्मीपूजनाच्या हार्दिक शुभेच्छा!</p>
+        </div>
+    </div>
+</body>
+</html>
