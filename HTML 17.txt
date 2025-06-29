@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Independence Day</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            padding: 20px;
+        }
+        h1 {
+            color: #333;
+        }
+        .flag-container {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+        .flag-strip {
+            width: 100px;
+            height: 60px;
+        }
+        .saffron {
+            background-color: orange;
+        }
+        .white {
+            background-color: white;
+        }
+        .green {
+            background-color: green;
+        }
+        .chakra {
+            position: relative;
+            width: 60px;
+            height: 60px;
+            border-radius: 50%;
+            background-color: transparent;
+            margin: 0 auto;
+        }
+        .chakra::before {
+            content: "";
+            position: absolute;
+            top: 50%;
+            left: 50%;
+            transform: translate(-50%, -50%);
+            width: 40px;
+            height: 40px;
+            border-radius: 50%;
+            background-color: navy;
+            border: 2px solid navy;
+        }
+        .content {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Independence Day!</h1>
+        <div class="flag-container">
+            <div class="flag-strip saffron"></div>
+            <div class="flag-strip white">
+                <div class="chakra"></div>
+            </div>
+            <div class="flag-strip green"></div>
+        </div>
+        <div class="content">
+            <p>India celebrates its Independence Day on August 15th each year, commemorating the nation's freedom from British rule in 1947.</p>
+            <p>This day is a celebration of unity, patriotism, and the sacrifices made by our freedom fighters.</p>
+            <p>Let's cherish the freedom we have and strive to build a stronger, more prosperous nation.</p>
+        </div>
+    </div>
+</body>
+</html>
