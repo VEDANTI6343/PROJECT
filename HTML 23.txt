@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Good Friday</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+        .container {
+            max-width: 800px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        h1 {
+            color: #333;
+        }
+        p {
+            color: #666;
+            line-height: 1.6;
+        }
+        .cross {
+            font-size: 4em;
+            color: red;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Good Friday</h1>
+        <div class="cross">&#x271D;</div>
+        <p>Good Friday, also known as Holy Friday, Great Friday, or Friday of Sorrows, is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary [4, 3]. It is observed during Holy Week as part of the Paschal Triduum [4].</p>
+        <p>This day is a solemn occasion for Christians, remembering Jesus' sacrifice and the significance of his death for their faith [4, 3].</p>
+        <p>Many Christians observe Good Friday with special church services, prayers, and reflection on the meaning of Christ's suffering and death [9, 4].</p>
+    </div>
+</body>
+</html>
