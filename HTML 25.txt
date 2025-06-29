@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ghatasthapana - Navratri</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            margin: 20px;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+        }
+        .kalash {
+            border: 2px solid #ccc;
+            padding: 20px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+        .kalash img {
+            width: 100px;
+            height: auto;
+            margin-bottom: 10px;
+        }
+        .samagri {
+            list-style-type: disc;
+            margin-left: 20px;
+        }
+        .muhurat {
+            font-weight: bold;
+            color: darkgreen;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Ghatasthapana (Kalash Sthapana) - Navratri</h1>
+
+        <div class="kalash">
+            <img src="kalash.png" alt="Kalash">
+            <h2>Kalash (Sacred Pot)</h2>
+            <p>A brass, copper, or clay pot filled with holy water, adorned with mango leaves and a coconut, is the central element.</p>
+        </div>
+
+        <h2>Ghatasthapana Muhurat</h2>
+        <p class="muhurat">06:13 AM to 10:21 AM (Check for local timings)</p>
+        <p class="muhurat">Abhijit Muhurat: 12:00 PM to 12:50 PM (Check for local timings)</p>
+
+        <h2>Puja Samagri (Items Required)</h2>
+        <ul class="samagri">
+            <li>Kalash (Sacred Pot)</li>
+            <li>Mango Leaves</li>
+            <li>Coconut (wrapped in a red cloth)</li>
+            <li>Unpeeled Barley (Jau)</li>
+            <li>Soil</li>
+            <li>Water</li>
+            <li>Incense Sticks</li>
+            <li>Flowers</li>
+            <li>Fruits</li>
+            <li>Sweets</li>
+            <li>Mouli (Sacred thread)</li>
+            <li>Roli (Red powder)</li>
+            <li>Rice</li>
+            <li>Turmeric</li>
+        </ul>
+
+        <h2>Significance of Ghatasthapana</h2>
+        <p>Ghatasthapana marks the beginning of the nine-day Navratri festival, symbolizing the invocation of Goddess Shakti. It is believed that performing the ritual at the auspicious muhurat ensures peace and prosperity for the household. [1, 2]</p>
+    </div>
+</body>
+</html>
