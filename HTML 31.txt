@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Happy Brother's Day!</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            text-align: center;
+            background-color: #f0f0f0;
+            margin: 0;
+            padding: 0;
+        }
+
+        .container {
+            padding: 20px;
+        }
+
+        h1 {
+            color: #333;
+        }
+
+        p {
+            color: #555;
+            font-size: 1.2em;
+        }
+
+        .wish {
+            margin-top: 20px;
+            padding: 15px;
+            background-color: #fff;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Happy Brother's Day!</h1>
+        <p>Wishing you a day filled with joy and laughter. You're the best brother a person could ask for!</p>
+
+        <div class="wish">
+            <p>To my amazing brother, Happy Brother's Day! You're my best friend and confidant.</p>
+        </div>
+
+        <div class="wish">
+             <p>No matter what, I know I can always count on you. Thanks for being my brother!</p>
+        </div>
+
+        <div class="wish">
+            <p>May your day be as awesome as you are! Happy Brother's Day!</p>
+        </div>
+
+    </div>
+</body>
+</html>
