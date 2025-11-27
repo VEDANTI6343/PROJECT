@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Pythagoras Theorem</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: #eef2ff;
+            padding: 40px;
+        }
+
+        .box {
+            background: white;
+            width: 700px;
+            margin: auto;
+            padding: 40px;
+            border-radius: 15px;
+            box-shadow: 0 0 20px rgba(0,0,0,0.2);
+        }
+
+        h1 {
+            text-align: center;
+            font-size: 40px;
+            color: #003366;
+        }
+
+        p {
+            font-size: 24px;
+        }
+
+        .formula {
+            font-size: 50px;
+            text-align: center;
+            font-weight: bold;
+            color: #cc0000;
+            margin: 30px 0;
+        }
+
+        /* CSS Triangle (no image link) */
+        .triangle {
+            width: 0;
+            height: 0;
+            border-left: 200px solid #4a90e2;
+            border-bottom: 150px solid #4a90e2;
+            border-right: 200px solid transparent;
+            margin: 40px auto;
+            position: relative;
+        }
+
+        .triangle::after {
+            content: "a";
+            position: absolute;
+            left: -120px;
+            bottom: -20px;
+            font-size: 24px;
+            color: black;
+        }
+
+        .triangle::before {
+            content: "b";
+            position: absolute;
+            left: 70px;
+            bottom: -130px;
+            font-size: 24px;
+            color: black;
+        }
+
+        .hyp {
+            position: absolute;
+            top: -100px;
+            left: 20px;
+            font-size: 24px;
+            color: black;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="box">
+    <h1>Pythagoras Theorem</h1>
+
+    <p>The Pythagoras theorem states that in a right-angled triangle:</p>
+
+    <div class="formula">a² + b² = c²</div>
+
+    <p>
+        Where: <br>
+        <b>a</b> = First side (Perpendicular) <br>
+        <b>b</b> = Second side (Base) <br>
+        <b>c</b> = Hypotenuse (Longest side)
+    </p>
+
+    <div class="triangle">
+        <div class="hyp">c</div>
+    </div>
+
+</div>
+
+</body>
+</html>
