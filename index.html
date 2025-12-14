@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Sum of Natural Numbers</title>
+</head>
+<body>
+  <h2>Calculate Sum of Natural Numbers</h2>
+
+  <input type="number" id="num" placeholder="Enter a positive number"><br><br>
+
+  <button onclick="findSum()">Find Sum</button>
+
+  <p id="result"></p>
+
+  <script>
+    function findSum() {
+      let n = parseInt(document.getElementById("num").value);
+      let result = document.getElementById("result");
+
+      if (isNaN(n) || n <= 0) {
+        result.innerText = "Please enter a positive natural number.";
+        return;
+      }
+
+      // Using formula: sum = n*(n+1)/2
+      let sum = n * (n + 1) / 2;
+
+      result.innerText = "Sum of first " + n + " natural numbers is: " + sum;
+    }
+  </script>
+</body>
+</html>
